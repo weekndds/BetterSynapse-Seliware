@@ -1,40 +1,25 @@
-# BetterSynapse - An open-source Synapse UI
-## THIS PROJECT IS NO LONGER MAINTAINED
-Development has shifted to [SynUI](https://github.com/rice-software/SynUI)
-You can grab the latest version [here](https://github.com/rice-software/SynUI/actions)
+![image](https://github.com/user-attachments/assets/50e964e9-a180-478a-9e01-87efee9bd394)
+# BetterSynapse - Made to support Seliware.
+Note: This project is made for fun! All credits go to the creators of the original BetterSynapse UI.
 
-## Requirements
- - .NET Framework 4.8
- - Windows 10
- - Synapse X
+[BetterSynapse UI on GitHub](https://github.com/rice-cracker-2234/BetterSynapse)
 
-## INSTRUCTION
+## Features
+- Auto Attach: Automatically attach to Roblox processes for a seamless experience.
+- Topmost: Keeps the window always on top for easy access.
+- LuaU Auto Complete: Provides enhanced auto-completion for Roblox Luau scripting.
+- Tabs: Easily manage multiple scripts with a tabbed interface.
 
-1. Download BetterSynapse.zip from the link below
-2. Extract BetterSynapse.zip inside your Synapse X's Installation
-3. Launch BetterSynapse.exe
-4. Enjoy :)
+### How to Run
+1. Go to the Releases page.
+2. Download the latest version.
+3. Run BetterSynapse.exe.
+### Building from Source
+If you'd like to compile the project yourself, follow these steps:
 
-## Releases
-Releases: [Here](https://github.com/khoaScript/BetterSynapse/releases)
+1. Install Visual Studio Code.
+2. Make sure to install all the necessary dependencies using NuGet:
+3. Open the project in Visual Studio Code.
+4. Use the NuGet package manager to install the required dependencies.
 
-## VirusTotal
-VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/MDNkZDMxZGNiZmZjYmZkZmZhZmJhZWFkZmI2Y2UzMGQ6MTYzMTg1NzAzOQ==)
-
-## Information
-Developed by rice cracker#9999.
-
-List of features:
-
- - Good and easy to use UI.
- - Script hub with tons of scripts to choose from.
- - some other stuff or smth idk lol.
-
-have fun skids :)
-# Thumbnails
-## Main
-![](https://cdn.discordapp.com/attachments/864522742095544320/888295524694888488/unknown.png)
-## Settings
-![](https://cdn.discordapp.com/attachments/864522742095544320/888295559314669598/unknown.png)
-## Script Hub
-![enter image description here](https://cdn.discordapp.com/attachments/864522742095544320/888295603833040926/unknown.png)
+Feel free to edit the code as you want, I do not own the BetterSynapse UI.
