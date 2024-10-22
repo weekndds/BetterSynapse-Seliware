@@ -1,40 +1,29 @@
-# BetterSynapse - An open-source Synapse UI
-## THIS PROJECT IS NO LONGER MAINTAINED
-Development has shifted to [SynUI](https://github.com/rice-software/SynUI)
-You can grab the latest version [here](https://github.com/rice-software/SynUI/actions)
+# BetterSynapse
 
-## Requirements
- - .NET Framework 4.8
- - Windows 10
- - Synapse X
+**Note:** This project is made for fun! All credits go to the creators of the original BetterSynapse UI.
 
-## INSTRUCTION
+[BetterSynapse UI on GitHub](https://github.com/rice-cracker-2234/BetterSynapse)
 
-1. Download BetterSynapse.zip from the link below
-2. Extract BetterSynapse.zip inside your Synapse X's Installation
-3. Launch BetterSynapse.exe
-4. Enjoy :)
+## Features
 
-## Releases
-Releases: [Here](https://github.com/khoaScript/BetterSynapse/releases)
+- **Auto Attach:** Automatically attach to Roblox processes for a seamless experience.
+- **Topmost:** Keeps the window always on top for easy access.
+- **LuaU Auto Complete:** Provides enhanced auto-completion for Roblox Luau scripting.
+- **Tabs:** Easily manage multiple scripts with a tabbed interface.
 
-## VirusTotal
-VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/MDNkZDMxZGNiZmZjYmZkZmZhZmJhZWFkZmI2Y2UzMGQ6MTYzMTg1NzAzOQ==)
+## How to Run
 
-## Information
-Developed by rice cracker#9999.
+1. Go to the [Releases](https://github.com/weekndds/BetterSynapse-Seliware/releases) page.
+2. Download the latest version.
+3. Run `BetterSynapse.exe`.
 
-List of features:
+## Building from Source
 
- - Good and easy to use UI.
- - Script hub with tons of scripts to choose from.
- - some other stuff or smth idk lol.
+If you'd like to compile the project yourself, follow these steps:
 
-have fun skids :)
-# Thumbnails
-## Main
-![](https://cdn.discordapp.com/attachments/864522742095544320/888295524694888488/unknown.png)
-## Settings
-![](https://cdn.discordapp.com/attachments/864522742095544320/888295559314669598/unknown.png)
-## Script Hub
-![enter image description here](https://cdn.discordapp.com/attachments/864522742095544320/888295603833040926/unknown.png)
+1. Install [Visual Studio](https://visualstudio.microsoft.com).
+2. Make sure to install all the necessary dependencies using NuGet:
+   - Open the project in Visual Studio Code.
+   - Use the NuGet package manager to install the required dependencies.
+
+Feel free to explore and have fun!
