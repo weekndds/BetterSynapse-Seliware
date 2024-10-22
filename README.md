@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e0fa07a2-acad-4efd-90d6-8c24789ab42d)
 # BetterSynapse
 
 **Note:** This project is made for fun! All credits go to the creators of the original BetterSynapse UI.
