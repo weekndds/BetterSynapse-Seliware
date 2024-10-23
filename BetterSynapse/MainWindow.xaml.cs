@@ -361,7 +361,6 @@ namespace SynapseX
                     InjectState.Content = "Attached";
                     StateColor.Fill = Brushes.Lime;
 
-                    // Seliware's setfpscap function is broken so no workie.
                     if (Settings.Default.UnlockFPS)
                     {
                         Seliware.Execute("setfpscap(99999)");
