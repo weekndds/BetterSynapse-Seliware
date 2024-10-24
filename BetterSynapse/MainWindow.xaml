@@ -431,7 +431,7 @@
                             <Button x:Name="SaveButton" Content="&#xe74e;" Width="25" Height="25" Margin="2" FontSize="16" FontFamily="{DynamicResource 'Segoe Fluent Icons'}" DockPanel.Dock="Right" Click="SaveButton_Click" ToolTip="Save Script"/>
                             <Button x:Name="ExecuteButton" Content="&#xe768;" Width="25" Height="25" Margin="2" FontSize="16" FontFamily="{DynamicResource 'Segoe Fluent Icons'}" DockPanel.Dock="Right" Click="ExecuteButton_Click" ToolTip="Execute Script"/>
                             <Ellipse x:Name="StateColor" Height="10" Width="10" Margin="10" Fill="Red" Opacity="0.9"/>
-                            <Label x:Name="InjectState" Margin="-1" Content="Not attached" VerticalAlignment="Center" FontSize="14"/>
+                            <Label x:Name="InjectState" Margin="-1" Content="Not Attached" VerticalAlignment="Center" FontSize="14"/>
                         </DockPanel>
                     </Border>
                     <Grid Margin="10,10,10,40">
